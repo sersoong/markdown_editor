@@ -1,5 +1,5 @@
 {
-  "name": "markdown_editor",
+  "name": "markdowneditor",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "sersoong <sersoong@gmail.com>",
@@ -11,6 +11,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "lodash": "^4.17.11",
+    "marked": "^0.5.1",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

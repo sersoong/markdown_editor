@@ -1,4 +1,4 @@
-# markdown_editor
+# markdowneditor
 
 > A Vue.js project
 
